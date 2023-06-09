@@ -11,4 +11,4 @@ Always learning, always figuring out, and always solving problems! Growth mindse
 - Ask questions
 - Think of the end goal
 
-[https://github.com/jjwhaley21]
+[[https://github.com/jjwhaley21]](https://jjwhaley21.github.io/reading-notes/)
