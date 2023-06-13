@@ -48,5 +48,5 @@ To create a link, enclose the link text in brackets (e.g., [Duck Duck goose]) an
 
 To create an unordered list, add dashes(-), astericks(*), or plus signs(+) in front of the line items.
 
-![Family](https://jjwhaley21.github.io/reading-notes/IMG_1693.jpeg)
+![Family](IMG_1693.jpeg)
 
